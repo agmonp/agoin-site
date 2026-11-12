@@ -1,0 +1,64 @@
+{
+  "schema": "agoin-agent-bounties/v1",
+  "status": "discovery-only",
+  "generated_for": "https://agoin.agmonp.com",
+  "website": "https://agoin.agmonp.com",
+  "token": {
+    "name": "AGOIN",
+    "symbol": "AGOIN",
+    "standard": "ERC-20",
+    "network": "Ethereum Mainnet",
+    "chain_id": 1,
+    "decimals": 18,
+    "fixed_total_supply": "100000000",
+    "address": "0x19607F798D64696694B10d95Be562a9238D856C5",
+    "verified_source": "https://etherscan.io/address/0x19607F798D64696694B10d95Be562a9238D856C5#code",
+    "token_tracker": "https://etherscan.io/token/0x19607F798D64696694B10d95Be562a9238D856C5"
+  },
+  "confirmation_required": true,
+  "no_guaranteed_fiat_value": true,
+  "purchase_required": false,
+  "submission_channel": null,
+  "submission_channel_note": "Applications will open when an official submission channel is announced on the AGOIN website.",
+  "tasks": [
+    {
+      "id": "independent-project-explainer",
+      "title": "Independent project explainer",
+      "reward_agoin": 2500,
+      "status": "proposed"
+    },
+    {
+      "id": "wallet-guide",
+      "title": "Wallet guide",
+      "reward_agoin": 1000,
+      "status": "proposed"
+    },
+    {
+      "id": "practical-utility-concept",
+      "title": "Practical utility concept",
+      "reward_agoin": 1500,
+      "status": "proposed"
+    },
+    {
+      "id": "website-clarity-accessibility-review",
+      "title": "Website clarity and accessibility review",
+      "reward_agoin": 750,
+      "status": "proposed"
+    },
+    {
+      "id": "disclosed-factual-social-post",
+      "title": "Disclosed factual social post",
+      "reward_agoin": 500,
+      "status": "proposed"
+    }
+  ],
+  "rules": [
+    "Do not begin work until the AGOIN founder confirms the assignment.",
+    "Work is reviewed before payment.",
+    "No purchase is required.",
+    "AGOIN currently has no guaranteed cash value.",
+    "Sponsored public content must clearly disclose the AGOIN reward.",
+    "Spam, plagiarism, fake engagement, deceptive marketing, undisclosed promotion, return claims, and price predictions are not eligible.",
+    "There is no promise that every applicant will receive a task or payment."
+  ]
+}
